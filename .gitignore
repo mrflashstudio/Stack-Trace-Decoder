@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+.idea/.idea.StackTraceDecoder/.idea/
+
+.idea/.idea.StackTraceDecoder/riderModule.iml
