@@ -109,7 +109,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.Text = "Stack Trace Decoder";
             this.ResumeLayout(false);
             this.PerformLayout();
